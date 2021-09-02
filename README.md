@@ -1,7 +1,7 @@
 # GiulianaCampos
-# Olá! Eu sou a Giuliana :blush: <br>
-# 💻 Atualmente faço estágio na Tora Transportes. <br>
-# 📚 Sou estudantes de ADS. 
+Olá! Eu sou a Giuliana :blush: <br>
+💻 Atualmente faço estágio na Tora Transportes. <br>
+📚 Sou estudantes de ADS. 
 
 
   <a href="https://instagram.com/giiulianac?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
